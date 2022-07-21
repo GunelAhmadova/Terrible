@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+height: 110px;
+    background-color: hsl(210, 29%, 24%);
+
+display: flex;
+align-items: center;
+position: sticky;
+top: -10px;
+}
+.startbootstrap{
+    display: flex;
+    height: 90vh;
+    background-color: #19bc9c;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.img{
+    width: 264px;
+    height: 280px;
+    margin: 0 auto;
+}
+.title h1{
+    color: white;
+    font-size: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: 800;
+    padding-top: 30px;
+   
+}
+.container .logo h1{
+    color: white;
+    font-size: 30px;
+    font-weight:800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    padding: 20px;
+}
+
+  .container .row ul li a{
+    color: white;
+    font-weight: 800;
+    
+  } 
+  .gradient{
+    background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 100%);
+width: 133px;
+height: 4px;
+margin-top: 20px;
+  }
+.icon{
+    color: white;
+    font-size: 40px;
+    margin: 0 15px;
+
+}
+ .gradientWrap2 .gradient2{
+    background: rgb(9, 9, 9);
+    background: linear-gradient(90deg, rgb(24, 23, 23) 0%, rgb(21, 20, 20) 100%);
+
+ }
+.img2 img{
+    width: 250px;
+    height: 200px; 
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
